@@ -1,0 +1,16 @@
+**/bin/
+**/obj/
+.git/
+.github/
+.vs/
+.vscode/
+docs/
+tests/
+*.user
+*.suo
+*.trx
+TestResults/
+.env
+Assignment AI-Proficient Software Engineer.pdf
+Untitled-1.txt
+winget_readonly_checks.txt
